@@ -1,0 +1,34 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url(../img/galaxiavermelhaBG.png);
+    background-size: auto;
+}
+
+#top {
+    background-color: #900020;
+    text-align: center;
+}
+
+#fimDePagina {
+    background-color: dimgrey;
+    opacity: 0.8;
+    text-align: center;
+}
+
+.center {
+    text-align: center;
+}
+
+.letrinhas {
+    font-size: small;
+    font-style: italic;
+    color: darkgray;
+}
+
+.titulos {
+    text-transform: uppercase;
+    color: red;
+}
+.paragrafos {
+    color: #b7b7b7;
+}
